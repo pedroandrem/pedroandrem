@@ -12,13 +12,6 @@
 
 <br>
 
-<!-- Snake animation -->
-<div align="center">
-  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
-  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-</div>
-
-<br>
 
 
 <!-- TryHackMe Profile and Badges -->
@@ -41,25 +34,6 @@
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/owasp-10">     <img title="OWASP Top 10"  alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/owasptop10.svg"   width="100"></a>
 </div>
 <br>
-
-<!-- Linkedin badge
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/miguel-carvalho-dev"><img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/linkedin.png" width="250"/>
-</div>
-
-<br>
--->
-
-<!-- Digital Ocean Ref badge -->
-<div align="center">
-  <a target="_blank" href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-    <img title="Get $200 to try DigitalOcean" alt="Get $200 to try DigitalOcean" src="http://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg"/>
-  </a>
-</div>
-
-<!-- Visitor's count -->
-<div align="center">
-  <img width="0" alt="Visitor's count" src="https://profile-counter.glitch.me/{migueltc13}/count.svg"/>
 </div>
 
 <div align="center">
