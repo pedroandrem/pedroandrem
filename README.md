@@ -14,8 +14,8 @@
 
 <!-- Snake animation -->
 <div align="center">
-  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
-  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/pedroandrem/pedroandrem/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
+  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/pedroandrem/pedroandrem/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </div>
 
 <br>
