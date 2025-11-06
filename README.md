@@ -1,7 +1,7 @@
 <!-- Heading: Simple bio and stats-->
 ## Hi, I'm Pedro!
 👨🏻‍💻 Cybersecurity student and developer exploring the world of ethical hacking and tech<br/>
-👨🏻‍🎓 Graduated in [Computer Science](https://www.di.uminho.pt/) and currently purseuing a Master's in [Cibersecurity](https://www.di.uminho.pt/) at the University of Minho, Portugal <br/>
+👨🏻‍🎓 Graduated in [Computer Science](https://www.di.uminho.pt/) and currently purseuing a Master's in [Cibersecurity](https://www.di.uminho.pt/) at the University of Minho<br/>
 💻 Driven by the challenge of securing systems, uncovering vulnerabilities, and advancing cybersecurity practices<br/>
 ⚔️ Actively engaging in CTFs and hands-on cybersecurity training to sharpen my skills
 
