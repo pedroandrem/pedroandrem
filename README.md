@@ -13,7 +13,7 @@
 <br>
 -->
 
-[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroandrem&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=pedroandrem&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 <!-- Snake animation -->
