@@ -6,11 +6,15 @@
 ⚔️ Actively engaging in CTFs and hands-on cybersecurity training to sharpen my skills
 
 <!-- Readme stats and top languages -->
+<!--
 <div align="center">
   <a href="#"><img align="center" width="55%" title="GitHub Stats" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedroandrem&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/></a>
 </div>
-
 <br>
+-->
+
+[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroandrem&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Snake animation -->
 
