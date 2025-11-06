@@ -7,7 +7,7 @@
 
 <!-- Readme stats and top languages -->
 
-<div align="center">
+<div>
   <h2>GitHub Stats</h2>
   <p>
     <img 
