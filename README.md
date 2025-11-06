@@ -11,8 +11,6 @@
 <!-- Readme stats and top languages -->
 
 <div>
-  <h2>GitHub Stats</h2>
-  <p>
     <img 
       src="https://github-readme-stats.vercel.app/api?username=pedroandrem&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only" 
       alt="GitHub Stats" 
