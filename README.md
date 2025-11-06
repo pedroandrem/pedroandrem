@@ -5,7 +5,7 @@
 💻 Driven by the challenge of securing systems, uncovering vulnerabilities, and advancing cybersecurity practices<br/>
 ⚔️ Actively engaging in CTFs and hands-on cybersecurity training to sharpen my skills
 
-## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_andrem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedromalainho) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PedroMalainho) 
 
 <!-- Readme stats and top languages -->
