@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_andrem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedromalainho) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PedroMalainho) 
 
 <!-- Readme stats and top languages -->
-![pedroandrem GitHub stats](github-readme-stats-six-sepia-34.vercel.app/api?username=pedroandrem&show_icons=true&theme=radical)
+![pedroandrem GitHub stats](https://github-readme-stats-delta-dusky.vercel.app/api?username=pedroandrem)
 
 
 # 💻 Tech Stack:
