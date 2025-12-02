@@ -10,11 +10,10 @@
 
 <!-- Readme stats and top languages -->
 
-<div align="center">
-  <a href="#"><img align="center" width="55%" title="GitHub Stats" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedroandrem&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647"/></a>
-  <a href="#"><img align="center" width="43.7%" title="Most Used Languages" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroandrem&langs_count=10&layout=compact&hide=HTML,CSS,SCSS&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647"/></a>
+<div> 
+   <img src="github-readme-stats-six-sepia-34.vercel.app/api?username=pedroandrem&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only" alt="GitHub Stats" width="55%"> 
+  </p> 
 </div>
-
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
