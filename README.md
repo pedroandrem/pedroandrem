@@ -24,11 +24,13 @@
   <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
   <a target="_blank" href="https://tryhackme.com/p/Malainhop"><img height="58" title="TryHackMe Profile" alt="TryHackMe Malainhop Profile" src="https://tryhackme-badges.s3.amazonaws.com/Malainhop.png"></a>
 </div>
+<!-- 
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/Malainhop/badges/web-fund">     <img title="Webbed"     alt="TryHackMe badge 1"  src="https://tryhackme.com/img/badges/webbed.svg"       width="100"></a>
 </div>
 <br>
 </div>
+
 
 <!--
 - 📫 How to reach me: TODO
